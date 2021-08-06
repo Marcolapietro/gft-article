@@ -1,23 +1,28 @@
-[
-  {
-    "id": 0,
-    "description": "GFT Logo",
-    "external_url": "https://www.gft.com/es/es/index/",
-    "image": "https://gateway.pinata.cloud/ipfs/QmRcH7ALKMtaP6jL67hSSr1AE4ncKg9TYZxMrxGfgsTnbH",
-    "name": "My GFT NFT 0"
-  },
-  {
-    "id": 1,
-    "description": "GFT Logo",
-    "external_url": "https://www.gft.com/es/es/index/",
-    "image": "https://gateway.pinata.cloud/ipfs/Qmdr4ANL5ZP6NJRTiTwtpuRHuxC1NL1uRRzvD5qkN4kmf8",
-    "name": "My GFT NFT 1"
-  },
-  {
-    "id": 2,
-    "description": "GFT Sant Cugat's headquarters",
-    "external_url": "https://www.gft.com/es/es/index/",
-    "image": "https://gateway.pinata.cloud/ipfs/Qmenre3p74Jtcgvxu1f48K1E1tqr6dKJqNVVj4NHYSY9xK",
-    "name": "My GFT NFT 2"
-  }
-]
+  
+{
+    "tokens": [
+
+  	{
+    	"id": 0,
+    	"description": "GFT Logo",
+    	"external_url": "https://www.gft.com/es/es/index/",
+    	"image": "https://gateway.pinata.cloud/ipfs/QmRcH7ALKMtaP6jL67hSSr1AE4ncKg9TYZxMrxGfgsTnbH",
+    	"name": "My GFT NFT 0"
+  	},
+  	{
+    	"id": 1,
+    	"description": "GFT Logo",
+    	"external_url": "https://www.gft.com/es/es/index/",
+    	"image": "https://gateway.pinata.cloud/ipfs/Qmdr4ANL5ZP6NJRTiTwtpuRHuxC1NL1uRRzvD5qkN4kmf8",
+    	"name": "My GFT NFT 1"
+  	},
+  	{
+    	"id": 2,
+    	"description": "GFT Sant Cugat's headquarters",
+    	"external_url": "https://www.gft.com/es/es/index/",
+    	"image": "https://gateway.pinata.cloud/ipfs/Qmenre3p74Jtcgvxu1f48K1E1tqr6dKJqNVVj4NHYSY9xK",
+    	"name": "My GFT NFT 2"
+  	}
+	]
+
+}
